@@ -54,5 +54,79 @@
             "name": "Trần Văn C",
             "job": "Công nghệ thông tin"
         }
+    ],
+    "jobs": [
+        {
+            "title": "Content Marketing Manager",
+            "company": "Con Cung Joint Stock Company",
+            "location": "Thành phố Hồ Chí Minh",
+            "salary": "theo thỏa thuận",
+            "deadline": "17/12/2024",
+            "image": "/con-cung-company.png"
+        },
+        {
+            "title": "Giám Sát Bán Hàng",
+            "company": "Coca-Cola Beverages Vietnam",
+            "location": "Hà Nội",
+            "salary": "theo thỏa thuận",
+            "deadline": "21/11/2024",
+            "image": "/coca-cola-company.png"
+        },
+        {
+            "title": "Nhân viên HSE",
+            "company": "Công ty TNHH Chế biến Thực phẩm Olam Việt Nam",
+            "location": "Thành phố Hồ Chí Minh",
+            "salary": "theo thỏa thuận",
+            "deadline": "4/11/2024",
+            "image": "/ofi-company.png"
+        },
+        {
+            "title": "Chuyên viên Thiết kế",
+            "company": "Công ty Cổ phần VINHOMES",
+            "location": "Hà Nội",
+            "salary": "theo thỏa thuận",
+            "deadline": "17/12/2024",
+            "image": "/vinhomes-company.png"
+        },
+        {
+            "title": "Ecommerce Executive",
+            "company": "CÔNG TY CỔ PHẦN SỮA QUỐC TẾ LOF",
+            "location": "Thành phố Hồ Chí Minh",
+            "salary": "theo thỏa thuận",
+            "deadline": "11/11/2024",
+            "image": "/lof-company.png"
+        },
+        {
+            "title": "Thực tập sinh Truyền thông nội bộ",
+            "company": "Công ty Cổ phần VUA NEM",
+            "location": "Thành phố Hồ Chí Minh",
+            "salary": "1,000,000 VNĐ - 3,000,000 VNĐ",
+            "deadline": "04/11/2024",
+            "image": "/vua-nem-company.png"
+        },
+        {
+            "title": "Thực tập sinh Marketing - Thiết kế đồ họa",
+            "company": "CÔNG TY TRUYỀN THÔNG VÀ CÔNG NGHỆ VIETNET",
+            "location": "Hà Nội",
+            "salary": "Theo KPIs đăng ký hoàn thành",
+            "deadline": "08/11/2024",
+            "image": "/vietnet-company.png"
+        },
+        {
+            "title": "Cộng tác viên Truyền thông",
+            "company": "VIB - Ngân Hàng Quốc Tế",
+            "location": "Thành phố Hồ Chí Minh",
+            "salary": "theo thỏa thuận",
+            "deadline": "30/12/2024",
+            "image": "/vib-bank-company.png"
+        },
+        {
+            "title": "Thực tập sinh Marketing - Thiết kế đồ họa",
+            "company": "Hoa sen group",
+            "location": "Thành phố Hồ Chí Minh",
+            "salary": "theo thỏa thuận",
+            "deadline": "07/12/2024",
+            "image": "/hoa-sen-company.png"
+        }
     ]
 }
