@@ -1,0 +1,58 @@
+{
+    "careers": [
+        {
+            "image": "/marketing-icon.png",
+            "title": "Marketing",
+            "available": "1.900"
+        },
+        {
+            "image": "/store-icon.png",
+            "title": "Bán lẻ",
+            "available": "1.900"
+        },
+        {
+            "image": "/it-icon.png",
+            "title": "Công nghệ thông tin",
+            "available": "1.900"
+        },
+        {
+            "image": "/customer-service-icon.png",
+            "title": "Dịch vụ khách hàng",
+            "available": "1.900"
+        },
+        {
+            "image": "/communication-icon.png",
+            "title": "Truyền thông",
+            "available": "1.900"
+        },
+        {
+            "image": "/software-icon.png",
+            "title": "Phần mềm",
+            "available": "1.900"
+        },
+        {
+            "image": "/education-icon.png",
+            "title": "Giáo dục",
+            "available": "1.900"
+        },
+        {
+            "image": "/hr-icon.png",
+            "title": "HR",
+            "available": "1.900"
+        }
+    ],
+    "applicants": [
+        {
+            "name": "Nguyễn Văn A",
+            "job": "Truyền thông đa phương tiện"
+        },
+        {
+            "name": "Nguyễn Thị B",
+            "job": "Quản trị kinh doanh"
+        },
+        {
+            "name": "Trần Văn C",
+            "job": "Công nghệ thông tin"
+        }
+    ]
+}
